@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhimakathait&show_icons=true&theme=radical" alt="ridhimakathait" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhimakathait&" alt="ridhimakathait" /></p>
